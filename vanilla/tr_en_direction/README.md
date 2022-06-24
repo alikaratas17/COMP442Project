@@ -1,3 +1,8 @@
+# Notes of Ali
+ This folder is my modified version of the transformer code for unmodified TR -> EN training & Testing
+
+# Below This is the original readme file
+
 # Attention Is All You Need Paper Implementation
 
 This is my from-scratch implementation of the original transformer architecture from the following paper: [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
@@ -9,18 +14,22 @@ This is my from-scratch implementation of the original transformer architecture 
 </a>
 
 ## Table of Contents
-* [About](#about)
-* [Setup](#setup)
-  * [Environment](#environment)
-  * [Pretrained Models](#pretrained-models)
-* [Usage](#usage)
-  * [Training](#training)
-  * [Inference](#inference)
-* [Data](#data)
-* [Architecture](#architecture)
-* [Weights and Biases Logs](#weights-and-biases-logs)
-* [Citation](#citation)
-* [License](#license)
+- [Notes of Ali](#notes-of-ali)
+- [Below This is the original readme file](#below-this-is-the-original-readme-file)
+- [Attention Is All You Need Paper Implementation](#attention-is-all-you-need-paper-implementation)
+  - [Table of Contents](#table-of-contents)
+- [About](#about)
+- [Setup](#setup)
+  - [Environment](#environment)
+  - [Pretrained Models](#pretrained-models)
+- [Usage](#usage)
+  - [Training](#training)
+  - [Inference](#inference)
+- [Data](#data)
+- [Architecture](#architecture)
+  - [Weights and Biases Logs](#weights-and-biases-logs)
+  - [Citation](#citation)
+  - [License](#license)
 
 
 # About
